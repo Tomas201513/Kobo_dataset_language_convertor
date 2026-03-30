@@ -1,0 +1,7 @@
+_id,respondent_name,age,gender,owns_phone,region
+1,Alice,28,female,yes,north
+2,Bob,35,male,no,south
+3,Chloé,22,female,yes,east
+4,David,45,male,yes,north
+5,Eve,31,female,no,south
+6,Frank,40,male,yes,east
